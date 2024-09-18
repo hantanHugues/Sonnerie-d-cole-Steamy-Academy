@@ -1,4 +1,5 @@
 # Sonnerie-d-cole-Steamy-Academy
+ Pour un tuto plus détaillé consultez le site de [Tech It All](https://www.learn.techitall.co)
 
 ## Présentation du Matériel à Utiliser
 
